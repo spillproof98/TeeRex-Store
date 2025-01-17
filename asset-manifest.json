@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TeeRex-Store/static/css/main.98a77ce0.css",
+    "main.js": "/TeeRex-Store/static/js/main.f0973122.js",
+    "index.html": "/TeeRex-Store/index.html",
+    "main.98a77ce0.css.map": "/TeeRex-Store/static/css/main.98a77ce0.css.map",
+    "main.f0973122.js.map": "/TeeRex-Store/static/js/main.f0973122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a77ce0.css",
+    "static/js/main.f0973122.js"
+  ]
+}
